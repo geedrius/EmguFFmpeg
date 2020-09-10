@@ -13,9 +13,9 @@
     </Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Authors>FFmpeg</Authors>
-    <PackageProjectUrl>https://github.com/IOL0ol1/EmguFFmpeg</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/geedrius/EmguFFmpeg</PackageProjectUrl>
     <PackageIcon>icon.png</PackageIcon>
-    <RepositoryUrl>https://github.com/IOL0ol1/EmguFFmpeg</RepositoryUrl>
+    <RepositoryUrl>https://github.com/geedrius/EmguFFmpeg</RepositoryUrl>
     <Company>EmguFFmpeg</Company>
     <PackageTags>ffmpeg media video audio capture encode decode encoding decoding codec ffmpegmanaged ffmpegcsharp ffmpegnet emgu</PackageTags>
     <PackageReleaseNotes>
@@ -23,7 +23,7 @@
       This is NOT a command-line warpper library. It's based on the ffmpeg function interface.
     </PackageReleaseNotes>
     <RepositoryType>git</RepositoryType>
-    <Version>1.0.14</Version>
+    <Version>1.0.14-gm1</Version>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
